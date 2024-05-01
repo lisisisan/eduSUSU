@@ -1,0 +1,14 @@
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/bin/Debug/net8.0/EmployeeUDPClient
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/bin/Debug/net8.0/EmployeeUDPClient.deps.json
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/bin/Debug/net8.0/EmployeeUDPClient.runtimeconfig.json
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/bin/Debug/net8.0/EmployeeUDPClient.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/bin/Debug/net8.0/EmployeeUDPClient.pdb
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.AssemblyInfoInputs.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.AssemblyInfo.cs
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.csproj.CoreCompileInputs.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/refint/EmployeeUDPClient.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.pdb
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/EmployeeUDPClient.genruntimeconfig.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPClient/EmployeeUDPClient/obj/Debug/net8.0/ref/EmployeeUDPClient.dll

@@ -1,0 +1,14 @@
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/bin/Debug/net8.0/EmployeeUDPServer
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/bin/Debug/net8.0/EmployeeUDPServer.deps.json
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/bin/Debug/net8.0/EmployeeUDPServer.runtimeconfig.json
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/bin/Debug/net8.0/EmployeeUDPServer.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/bin/Debug/net8.0/EmployeeUDPServer.pdb
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.AssemblyInfoInputs.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.AssemblyInfo.cs
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.csproj.CoreCompileInputs.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/refint/EmployeeUDPServer.dll
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.pdb
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/EmployeeUDPServer.genruntimeconfig.cache
+/Users/enz/VisualStudioCodeProjects/EmployeeUDPServer/EmployeeUDPServer/obj/Debug/net8.0/ref/EmployeeUDPServer.dll
